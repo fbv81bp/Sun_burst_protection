@@ -1,7 +1,7 @@
 # Lightning protection
 
 I read this Wired article on Sun bursts:
-https://www.wired.com/sun-storm-end-civilization/
+https://www.wired.com/story/sun-storm-end-civilization/
 and thought I post another concept, that is actually compatible to capacitors, ie. the two extend eachother well.
 
 The solution is to use the shielding effect of the twisted wire pair concept to protect sensitive wire loops by winding a circle of ground wire around them. This will have a smaller resistance and take the bulk of any induction, that would otherwise affect the system to be protected.
