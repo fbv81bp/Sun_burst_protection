@@ -1,4 +1,4 @@
-# Lightning protection
+# Sun burst protection
 
 I read this Wired article on Sun bursts:
 https://www.wired.com/story/sun-storm-end-civilization/
